@@ -1,0 +1,15 @@
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/bin/Debug/net5.0/PersonalityQuizAdventure.deps.json
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/bin/Debug/net5.0/PersonalityQuizAdventure.runtimeconfig.json
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/bin/Debug/net5.0/PersonalityQuizAdventure.runtimeconfig.dev.json
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/bin/Debug/net5.0/PersonalityQuizAdventure.dll
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/bin/Debug/net5.0/ref/PersonalityQuizAdventure.dll
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/bin/Debug/net5.0/PersonalityQuizAdventure.pdb
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.csproj.AssemblyReference.cache
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.AssemblyInfoInputs.cache
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.AssemblyInfo.cs
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.csproj.CoreCompileInputs.cache
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.dll
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/ref/PersonalityQuizAdventure.dll
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.pdb
+/Users/derek/Documents/GitHub/PersonalityQuizAdventure/obj/Debug/net5.0/PersonalityQuizAdventure.genruntimeconfig.cache
